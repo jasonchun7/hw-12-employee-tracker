@@ -3,7 +3,7 @@ USE employeesDB;
 INSERT INTO department (name)
 VALUES ("Sales");
 INSERT INTO department (name)
-VALUES ("Engineering");
+VALUES ("Engineering"); 
 INSERT INTO department (name)
 VALUES ("Finance");
 INSERT INTO department (name)
@@ -23,16 +23,16 @@ VALUES ("Legal Team Lead", 250000, 4);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES ("John", "Doe", 1, 3);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Mike", "Chan", 2, 1);
+VALUES ("Alvis", "Lize", 2, 1);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Ashley", "Rodriguez", 3, null);
+VALUES ("Minerva", "Cosmas", 3, null);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Kevin", "Tupik", 4, 3);
+VALUES ("Janelle", "Asel", 4, 3);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Malia", "Brown", 5, null);
+VALUES ("Metod", "Rosalie", 5, null);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Sarah", "Lourd", 2, null);
+VALUES ("Sarah", "Rahma", 2, null);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Tom", "Allen", 4, 7);
+VALUES ("Jensen", "Alysa", 4, 7);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Christian", "Eckenrode", 1, 2);
+VALUES ("Rhoda", "Roxanna", 1, 2);
