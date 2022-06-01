@@ -6,6 +6,8 @@ For this assignment, we were assigned to build a command-line application from s
 
 Because this application won't be deployed, I've attached a walkthrough video below to view how it works in the command-line.
 
+[Walkthrough Demo](https://drive.google.com/file/d/17l13jKI5PFu2sleCwbP8iZg86bjU12_g/view?usp=sharing)
+
 ## Tech Used
 
 - inquirer
